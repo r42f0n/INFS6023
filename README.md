@@ -1,86 +1,40 @@
 java c
-Data Visualisation for Managers 
-(INFS6023) 
-Individual Assignment
-Assessment Details 
-The purpose of this assignment   is to enable   students:
-•    Develop   knowledge of key   Data Visualisation (DV) concepts and   understand   related   challenges.
-•   Apply   principles and   best   practices to develop data visualisations based on   real world   datasets.
-•    Enhance research, critical thinking skills, and   solution   development   skills.
-This assignment has   two   parts:
-•    Part   1:   Answers   for   questions:    1, 2, and   3
-•    Part   2:   Answers   for   questions:    1 (Business   Understanding), 2 (Data   Understanding),   and   3   (Visualisation)
-Tasks 
-Part 1 
-Read the   Hydro   EU case (posted on canvas).   Additionally, conduct   independent   research on the topic of ‘clean and renewable energy   production’   and find   an   “interactive”   visualisa-tion corresponding to any one of the mentioned   problems that   data visualization   is   helping   to   solve.   Then, answer the following questions related to the visualisation: 
-1.    Provide   the   Internet   link   (url) to   the   visualisation.   Explain   which   problem   of   clean   and renewable energy   production the data visualization is helping   to   solve.
-2.    Use   data   visualisation   frameworks   and   decision   contexts   discussed   in   weeks   1   and   2   to analyse the visualisation.
-3.    Critically reflect on the visualisation using visual grammars.   Provide   three   examples   of good practices used in the visualisation.   Then   identify three   areas   for   improvement.
-Part 2 
-Read   the   Hydro   EU   case   (posted   on   canvas).   Then, answer   the   following:
-1.    Business   Understanding:   Conduct   independent research on the topic to understand
-the business   model of renewable energy providers   specifically   in   the   hydro   power field.   Describe your understanding of the business   model.
-2.    Data   Understanding:   Use   Tableau   data   visualisation   to   conduct   exploratory   data   anal-
-ysis (EDA). Specifically focus on the features that you   believe   are   most   relevant to   the business   model of a   hydro   power provider.
-3.   Visualisation:   Develop a Tableau   Dashboard to   present unique and significant   insights   that help solve the companies problems.   Provide   a justification of the design   decisions   you made when developing the dashboard.    Include a screenshot of the dashboard (only)   in   the   report   (max   one   page).
-Notes 
-•    Do   not   present all your charts   in the dashboard, display only what   you   believe   would   be   most   interesting to the senior management of a hydro   power   company.
-•    No   written   text   is   required   in   the   Tableau   file   except   for   descriptive   text   used   in   the   visu-alisation   (e.g.,   labels).
-• Upload an export of a packaged workbook of your visualisation before the assign-ment due date.
-– Check   the   Tableau   Resources   page   on   Canvas   on   how   to   export   a   packaged   work-book   in   Tableau   Desktop
-– Tableau   File   name   should   be   of   the   format:   StudentID-Stream-Year-Semester (e.g.,   1234567-CC2-2023-S2.twbx)
-– Make   sure   that   you   have   tested   exporting   (and   re-opening) your   workbook   in   ad-   vance.
-•   You   may   create   as   many   Sheets   in   Tableau   as   you   like   for   the   analysis,   but   only   upload one   Dashboard visualisation to Canvas.
-Submission Requirements 
-•    1500 word   limit   (excluding   words   on   visualisations).
-•      Submission document requirements:
-– Include question numbers with   the   answers
-– Questions   that   you   do   not   answer   will   receive   zero   marks.
-– Format:   Double   line   spacing, 2.5cm   margins, and   font   size   of   n代 写INFS6023 Data Visualisation for Managers Individual AssignmentSQL
-代做程序编程语言o   less   than   12pt.
-– Student   Identification   (SID)   must   appear   in   the   header   on   the   top   right-hand   side   of each   page   of   the   document.   Do   not   include   your   name.
-– Page   number   should   be   bottom   right-hand   side   of   each   page.
-– File   name   should   be   of   the   format:   SID-Stream-Year-Semester
-*   Example:   1234567-CC2-2023-S2.docx
-– Assignments should be print-friendly and should   not   contain   a   cover sheet.
-– Assignment can be submitted as   Microsoft Word document   or   as   pdf.
-– Word   Length:   Where the student exceeds the word length, the student will   lose   10% of   the   total   marks   when   the   submission   is   10% above   the   word   length   and 10% for   each   10% over-length   thereafter.
-• Submit   an   electronic   copy   via   Canvas by the due date.
-– Use   the   submission   link   provided   on   Canvas   in   the   Assignments   Tab   (located   on the   left-hand   menu   bar).
-– Should submission   problems occur, please contact the   unit administrator as   soon   as   possible.
-– Late assignments will   be   penalised   in accordance with   Business School   Policy as   set out   in the   UOS   outline
-•      Submit Tableau visualisation via Canvas as a packaged workbook   (check   the   Tableau   Resources   page on Canvas on   how to export a   packaged workbook   in   Tableau   Desk-   top).
-•   Avoid using foreign languages in the   assignment, submission   documents,   and   visuali-   sations.
-•    References
-– All references are included   in   the   overall word   count.
-– Make   sure   appropriate   referencing   and   referencing   style   is   used   (e.g., APA).   See Canvas for more   information.
-Other Instructions 
-1.    Make   sure   that   you   have   reviewed   the   weekly   materials   in   detail,   including   the   slides,   weekly readings, discussion board postings, weekly   activities,   and   other   external   re-sources.
-2.    Incorporate the theoretical and methodological foundations from the   lectures to   assist   with your arguments.
-3.    Conduct   independent   research and use external references to   support your   responses.   Building upon the lecture content   by   including   new and   additional   references   can   lead to   a   higher   mark.
-4.    Draw informed conclusions.   Build upon your   knowledge and   understanding   of the weekly   materials, learning activities, and research.   All   materials   presented   in   your answers should be synthesised, summarised, integrated, and   reviewed with   a   critical   eye.
-5.      Submission   summary   table   below:
-Deliverables 
-Format 
-Length 
-A single document that includes answers to Part 1 and Part 2. A single document uploaded to Canvas as Microsoft word doc or pdf 
-Up to 1500 words 
-Tableau Visualisation Dash- board 
-Submitted as a packaged work- book to Canvas 
-Maximum size to fit in 1 page 
-Assessment Criteria 
-Please   refer to the ‘Business School Grade   Descriptors’ document   posted   on the   unit   of study   Canvas site   in the assignments Tab.   These grade descriptors are   used   as   a   basis for   con-structing the   marking schemes   in all assessment   items.
-Marking Rubric 
-Criteria 
-Marks 
-Problem Statement / Clarity of objectives / Purpose and justification / Rele- vance of content / Use of Literature 
-4 marks 
-Critical reasoning / Analysis/ Application to the case / Conclusions / Lessons learned through research 
-6 marks 
-Relevance of response / Quality of preparation / Clarity of answering ques- tion / Clarity of expression (incl. accuracy, spelling, grammar, punctuation) 
-3 marks 
-Presentation (oral/visual) / Conforming with instructions (e.g. duration, word length, other instructions) 
-2 marks 
+Data Visualisation for Managers (INFS6023) 
+Assignment Case 
+Hydro EU: Visualizing Renewable Energy Production Across Europe 
+Background 
+Hydro   EU,   headquartered   in   Milan,   Italy, stands   as   Europe’s   leading   producer   of   clean   and renewable energy, with a focus on   hydroelectric   power generation.   The company manages   a   vast and diverse   portfolio of hydroelectric power   plants spread   across   the   continent,   ranging      from small run-of-river installations to large-scale   pumped   storage facilities. 
+As   Hydro   EU   has   grown   over   the   years, so   has   the complexity of managing its widespread assets.   The   company’s power plants vary   greatly   in terms   of capacity, type, and geographical location.   Some   are   situated   in   mountainous   regions with   high dams and   large reservoirs, while others are   located   on   rivers with   a   steady   flow.   This   diversity, while   a   strength in terms of energy   production flexibility, presents significant challenges in terms of asset   management,   strategic planning, and operational optimization.
+Recognizing the complexity of their asset management,   Hydro   EU sought assistance from a data visualization team to develop   a system that would provide a comprehensive overview of their operations.   The   goal was   to      create an interactive, visual representation of their entire   hydroelectric   portfolio,   leveraging   the wealth of data they had accumulated about   each   power   plant.
+What Problem is Data Visualization Helping to Solve? 
+The   primary challenge faced   by   Hydro   EU was the lack of a unified,   easily   comprehensible   view of their asset status across   Europe.   This deficiency led to   several   operational   issues:
+1.    Inefficient   Planning:   Without a clear overview, scheduling   maintenance and   managing   power distribution became unnecessarily complex and time-consuming.
+2.    Communication Gaps:   Stakeholders at various levels of the organization struggled   to
+access and understand the current status of assets,   leading to   potential   misunderstandings   and   inefficiencies.
+3.      Suboptimal   Decision-Making:   The absence of a comprehensive view made   it difficult for
+management to   make   informed, strategic decisions about asset utilization   and   maintenance prioritization.
+4.    Potential for   Human   Error:   Relying on disparate sources of   information   increased the
+risk of overlooking critical maintenance needs or   mismanaging   power   distribution.
+What Data Can Be Used? 
+To create an effective visualization system,   Hydro   EU compiled and   provided   access   to   a
+comprehensive dataset of their hydroelectric power plants   across   Europe.   The   dataset   includes   the following key   information:
+1.   Asset   Identification:   Unique   identifier   for   each   power   plant   (id),   Name   of   the   power   plant (name), Associated   IDs   from   other   databases   (pypsa_id, GEO, WRI)
+2.    Location   Data:   Country   code   (ISO   3166-1 alpha-2)   (country_code),   Latitude   and   longitude in   decimal   degrees   (lat,   lon) 
+3.    Power   Generation   Capacity:    Installed   electrical   power   generation   capacity 代 写INFS6023 Data Visualisation for ManagersR
+代做程序编程语言  in   MW   (installed capacity_MW),   Pumping   capacity   in   MW, where   applicable   (pumping_MW), Average annual generation in GWh   (avg annual   generation_GWh)
+4.    Plant   Characteristics:   Type   of   power   plant   according   to   Dispa-SET   classification   (type), Dam   height   in   meters   (dam   height_m),   Reservoir   volume   in   million   cubic   meters   (volume_Mm3), Storage capacity   in   MWh (storage capacity_MWh)
+A comprehensive data dictionary can be   found   in   the Appendix.
+This rich dataset allows for a comprehensive visualization that   not   only   shows   the   current   state of Hydro   EU’s assets but also   enables   detailed   analysis   and   planning.
+Any Challenges That Had To Be Overcome? 
+The development and   implementation of the data visualization system for   Hydro   EU   presented   several challenges:
+Scalability was an   issue that   had to be overcome.   Designing a   system that   could   handle   and   display data for thousands of assets across   Europe without compromising performance   or user experience was a major technical   challenge.
+Data security was crucial.   Given the sensitive nature of energy   infrastructure   information, implementing robust security   measures to protect the data while   still   allowing   necessary   access   was crucial. 
+Adoption of the data visualisation system among technology-resistant users was slow.   Overcoming   resistance to change and ensuring widespread adoption of the   new system   across   different departments and levels of the organization required a   comprehensive   training   and   change   management approach. 
+To address these challenges,   Luca   Moretti and   his data visualization team worked   closely with   Hydro   EU’s   IT department, conducted multiple stakeholder workshops, and   implemented an agile development   process with regular feedback loops.   The   resulting system   not   only   met the initial requirements but also   provided   a foundation for future   enhancements   and   data-driven   decision-making at   Hydro   EU. 
+Data Dictionary 
+Variable Name Type Description id Categorical Unique identifier of the hydro-power plant name Categorical Name of the power plant installed capacity_MW Continuous Electrical power generation capacity in MW pumping_MW Continuous Pumping capacity in MW (only when specified) type Categorical Typology of the power plant, according to the Dispa-SET classification of technologies country_code Categorical Country code according to ISO 3166-1 alpha-2 lat Continuous Latitude of the power plant in decimal degrees lon Continuous Longitude of the power plant in decimal degrees (-180, 180) dam_height_m Continuous Nominal head of the dam in meters volume_Mm3 Continuous Useful capacity of the reservoir in million of cubic meters storage capacity_MWh Continuous Potential quantity of energy that can be stored in MWh avg annual generation_GWh Continuous Expected/average generation per year (GWh) pypsa_id Integer Association with the ID column from PyPSA-Eur powerplants.csv GEO Categorical Association with the GEO Assigned Identification Number from Global Energy Observatory WRI Categorical Association with the WRI Global Power Plant Database 
+
+
 
 
 
